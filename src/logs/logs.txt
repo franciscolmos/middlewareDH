@@ -1,0 +1,2 @@
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin?user=Ada
